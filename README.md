@@ -1,0 +1,2 @@
+# Sentiment-analysis-for-Twitter-keyword-query-
+Sentiment Analysis is performed on queried twitter keywords using Vader. Tweets containing the query within from a specific date given by the user are displayed in a pandas Dataframe. The texts are cleaned and some visualization is applied on the tweets which shows the words with the most counts. Sentiment analysis is applied on the tweets and are classified in Positive, Neutral and Negative. 
